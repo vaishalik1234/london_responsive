@@ -1,0 +1,42 @@
+
+
+	section {
+		padding: 3rem  0 10rem;
+	}
+	:root {
+    --green-color: #69bd27;
+    --light-green: #69be28;
+    --white-color: #ffffff;
+    --dark-blue: #006a4d;
+    --light-blue: #7fb4a6;
+    --black-color: #000000;
+    --light-dark: #3b3b3b;
+    --dark-green: #00694d;
+	}
+	.mb-30 {
+		margin-bottom: 3rem;
+	}
+	.mb-20 {
+		margin-bottom: 2rem;
+	}
+	.mt-50 {
+		margin-top: 5rem;
+	}
+	li {
+		display: inline-block;
+		list-style: none;
+	}
+	.p-1 {
+		padding: 0 1rem;
+	}
+	li {
+		display: inline-block;
+		list-style: none;
+	}
+	li {
+		display: inline-block;
+		list-style: none;
+	}
+	a:visited, a:link {
+		text-decoration: none;
+	}
